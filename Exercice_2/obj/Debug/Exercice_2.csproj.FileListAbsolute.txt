@@ -1,0 +1,7 @@
+C:\Users\Seb\source\repos\Controle1\Exercice_2\bin\Debug\Exercice_2.exe.config
+C:\Users\Seb\source\repos\Controle1\Exercice_2\bin\Debug\Exercice_2.exe
+C:\Users\Seb\source\repos\Controle1\Exercice_2\bin\Debug\Exercice_2.pdb
+C:\Users\Seb\source\repos\Controle1\Exercice_2\obj\Debug\Exercice_2.csprojAssemblyReference.cache
+C:\Users\Seb\source\repos\Controle1\Exercice_2\obj\Debug\Exercice_2.csproj.CoreCompileInputs.cache
+C:\Users\Seb\source\repos\Controle1\Exercice_2\obj\Debug\Exercice_2.exe
+C:\Users\Seb\source\repos\Controle1\Exercice_2\obj\Debug\Exercice_2.pdb

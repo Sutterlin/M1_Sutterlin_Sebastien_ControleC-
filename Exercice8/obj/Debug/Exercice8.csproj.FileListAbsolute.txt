@@ -1,0 +1,6 @@
+C:\Users\Seb\source\repos\Controle1\Exercice8\bin\Debug\Exercice8.exe.config
+C:\Users\Seb\source\repos\Controle1\Exercice8\bin\Debug\Exercice8.exe
+C:\Users\Seb\source\repos\Controle1\Exercice8\bin\Debug\Exercice8.pdb
+C:\Users\Seb\source\repos\Controle1\Exercice8\obj\Debug\Exercice8.csproj.CoreCompileInputs.cache
+C:\Users\Seb\source\repos\Controle1\Exercice8\obj\Debug\Exercice8.exe
+C:\Users\Seb\source\repos\Controle1\Exercice8\obj\Debug\Exercice8.pdb

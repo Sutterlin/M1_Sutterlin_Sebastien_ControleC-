@@ -1,0 +1,7 @@
+C:\Users\Seb\source\repos\Controle1\Exercice_4\bin\Debug\Exercice_4.exe.config
+C:\Users\Seb\source\repos\Controle1\Exercice_4\bin\Debug\Exercice_4.exe
+C:\Users\Seb\source\repos\Controle1\Exercice_4\bin\Debug\Exercice_4.pdb
+C:\Users\Seb\source\repos\Controle1\Exercice_4\obj\Debug\Exercice_4.csprojAssemblyReference.cache
+C:\Users\Seb\source\repos\Controle1\Exercice_4\obj\Debug\Exercice_4.csproj.CoreCompileInputs.cache
+C:\Users\Seb\source\repos\Controle1\Exercice_4\obj\Debug\Exercice_4.exe
+C:\Users\Seb\source\repos\Controle1\Exercice_4\obj\Debug\Exercice_4.pdb
